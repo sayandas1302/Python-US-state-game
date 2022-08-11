@@ -1,5 +1,5 @@
 # Python-US-state-game
-This is a simple game to memorize the name of the 50 states of United States of America. It uses Pandas and turtle to create a UI that takes the guess of the state name and plot a correct guess into an US map. It also list out the name of the states that the user misses.
+This is a simple game to memorize the name of the 50 states of United States of America. It uses pandas and turtle to create a UI that takes the guess of the state name and plot a correct guess into an US map. It also list out the name of the states that the user misses.
 
 ### Getting Started
 1. Download the entire project folder and create an environment inside the folder
